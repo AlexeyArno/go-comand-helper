@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2018.02.23 12:15:47.930,=C:\Users\alex\Documents\RAD Studio\Projects\Project1.res</Transaction>
+    <Transaction>2018.02.23 12:15:48.054,=C:\Users\alex\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018.02.23 12:16:10.001,D:\GOPATH\src\github.com\AlexeyArno\go-comand-helper\examples\emb\Unit1.dfm=C:\Users\alex\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018.02.23 12:16:10.001,D:\GOPATH\src\github.com\AlexeyArno\go-comand-helper\examples\emb\Unit1.cpp=C:\Users\alex\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018.02.23 12:16:10.001,D:\GOPATH\src\github.com\AlexeyArno\go-comand-helper\examples\emb\Unit1.h=C:\Users\alex\Documents\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2018.02.23 12:16:11.767,D:\GOPATH\src\github.com\AlexeyArno\go-comand-helper\examples\emb\Project1.cbproj=C:\Users\alex\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
